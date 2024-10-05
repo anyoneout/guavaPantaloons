@@ -2,8 +2,7 @@ import { input } from '@inquirer/prompts';
 import { select } from '@inquirer/prompts';
 import { checkbox } from '@inquirer/prompts';
 import { say } from 'cowsay';
-import { think } from 'cowsay';
-import figlet from "figlet";
+
 
 const name = await input({ message: 'What is your name?'});
 
