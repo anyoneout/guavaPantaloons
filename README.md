@@ -2,4 +2,4 @@
 
 
 
-To run type "npm run start"
+To run type "npm run start" into terminal
